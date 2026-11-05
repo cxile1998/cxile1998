@@ -8,5 +8,6 @@
 
 <br>
 
-> This is a personal repository for technical records and experimental code.
-
+<div align="center">
+This is a personal repository for technical records and experimental code.
+</div>
